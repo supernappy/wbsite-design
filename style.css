@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: gray;
+}
+p {
+  font-weight: 400;
+  font-family: "Work Sans", serif;
+  font-size: 14px;
+}
+
+header {
+  background-color: beige;
+  text-align: center;
+  height: 70px;
+  border: 3px solid snow;
+  margin-bottom: 10px;
+}
+header h1 {
+  text-align: center;
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 26px;
+  font-family: "Abril Fatface", serif;
+}
+.container {
+  border: 3px solid black;
+  width: 80%;
+  margin: 50px auto;
+}
+.color-panel {
+  display: inline-block;
+  width: 300px;
+  height: 150px;
+  text-align: center;
+  margin: 50px 30px;
+  position: relative;
+  left: 65px;
+}
+.color-container {
+  width: 100%;
+}
+
+.teal {
+  background-color: teal;
+  width: 1;
+}
+.aliceblue {
+  background-color: aliceblue;
+}
+.antiquewhite {
+  background-color: antiquewhite;
+}
+.lawngreen {
+  background-color: lawngreen;
+}
+.gold {
+  background-color: gold;
+}
+.darkred {
+  background-color: darkred;
+}
+h2 {
+  position: relative;
+  left: 18px;
+  top: 18px;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Space-mono";
+}
+.font-panel {
+  display: inline-block;
+  width: 190px;
+  height: 150px;
+  text-align: center;
+  margin: 80px 30px;
+  position: relative;
+  left: 100px;
+}
+
+.abril-fatface {
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: "Abril Fatface", serif;
+}
+.space-mono {
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: "Space-mono", serif;
+}
+.merriweather {
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: "Merriweather", serif;
+}
+.work-sans {
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: "Work Sans, serif";
+}
+
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.text-container {
+  display: block;
+  margin-left: 50px;
+  padding: 30px;
+  width: 100%;
+  text-align: left;
+}
+.text-panel {
+  margin: 40px;
+  padding: 10px;
+}
+.text-panel h1 {
+  font-size: 32px;
+  font-weight: 700;
+  font-family: "Merriweather";
+  position: relative;
+  right: 70px;
+  margin: 40px;
+}
+.text-panel h2 {
+  font-size: 18px;
+  margin-left: -55px;
+  font-family: "Merriweather";
+  padding-bottom: 30px;
+}
+
+.text-panel p {
+  font-weight: 400px;
+  font-size: 14px;
+  font-family: "Merriweather";
+  position: relative;
+  right: 55px;
+  margin: 15px;
+}
