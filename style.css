@@ -3,7 +3,7 @@
   padding: 0;
 }
 body {
-  background-color: gray;
+  background-color: azure;
 }
 p {
   font-weight: 400;
@@ -12,7 +12,7 @@ p {
 }
 
 header {
-  background-color: beige;
+  background-color: rgb(220, 245, 238);
   text-align: center;
   height: 70px;
   border: 3px solid snow;
@@ -137,4 +137,5 @@ h2 {
   text-decoration: underline;
   font-weight: bold;
   margin-bottom: 10px;
+  font-size: medium;
 }
