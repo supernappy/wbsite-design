@@ -81,23 +81,15 @@ h2 {
 }
 
 .abril-fatface {
-  text-decoration: underline;
-  font-weight: bold;
   font-family: "Abril Fatface", serif;
 }
 .space-mono {
-  text-decoration: underline;
-  font-weight: bold;
   font-family: "Space-mono", serif;
 }
 .merriweather {
-  text-decoration: underline;
-  font-weight: bold;
   font-family: "Merriweather", serif;
 }
 .work-sans {
-  text-decoration: underline;
-  font-weight: bold;
   font-family: "Work Sans, serif";
 }
 
@@ -140,4 +132,9 @@ h2 {
   position: relative;
   right: 55px;
   margin: 15px;
+}
+.font-label {
+  text-decoration: underline;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
